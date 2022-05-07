@@ -1,3 +1,3 @@
-# nuxt-starter-zwkprx
+# Tamasha Skul
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-zwkprx)
+Blog with nuxtjs + markdown
